@@ -141,8 +141,7 @@ namespace KevinBaconGame
             {
                 return;
             }
-        }
-        
+        } 
     }
 }
 
